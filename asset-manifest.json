@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/blogCasestudy/static/css/main.e8436a20.css",
+    "main.js": "/blogCasestudy/static/js/main.63250be0.js",
+    "static/js/453.ede2c593.chunk.js": "/blogCasestudy/static/js/453.ede2c593.chunk.js",
+    "index.html": "/blogCasestudy/index.html",
+    "main.e8436a20.css.map": "/blogCasestudy/static/css/main.e8436a20.css.map",
+    "main.63250be0.js.map": "/blogCasestudy/static/js/main.63250be0.js.map",
+    "453.ede2c593.chunk.js.map": "/blogCasestudy/static/js/453.ede2c593.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8436a20.css",
+    "static/js/main.63250be0.js"
+  ]
+}
